@@ -11,7 +11,7 @@ To clean: make clean
 
 The following options are available:
 
--1	Force output to be on entry per line.
+-1  Force output to be on entry per line.
 
 -A	List all entries except for . and ..
 
@@ -19,7 +19,9 @@ The following options are available:
 
 -d	Directories are listed as plain files (not searched recursively)
 
--F	Display a slash (‘/) immediately after each pathname that is a directory, an 		asterisk (‘*’) after each that is an executable, an at sign (‘@‘) after each 		symbolic link, an equals sign (‘=‘) after each socket, a percent sign (‘%’) after 	each whiteout, and a vertical bar (‘|’) after each that is a FIFO.	
+-F	Display a slash (‘/) immediately after each pathname that is a directory, an 		asterisk (‘*’) after each that is an
+    executable, an at sign (‘@‘) after each 		symbolic link, an equals sign (‘=‘) after each socket, a percent sign (‘%’) 
+    after 	each whiteout, and a vertical bar (‘|’) after each that is a FIFO.	
 
 -i	For each file, print the file’s file serial number (node number).
 
