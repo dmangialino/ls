@@ -1,9 +1,4 @@
 /* 
-	Dina Mangialino
-	Professor Adriana Wise
-	Unix Tools Midtern Project: ls implementation
-	April 21, 2017
-
 	path_alloc.h
 	Header file for path_alloc function, including implementation
 	Code from from Advanced Programming in the Unix Environment
