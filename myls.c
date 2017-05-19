@@ -1,9 +1,4 @@
 /* 
-	Dina Mangialino
-	Professor Adriana Wise
-	Unix Tools Midtern Project: ls implementation
-	April 21, 2017
-
 	myls.c
 	Main program for myls
 */
@@ -26,17 +21,17 @@ int main(int argc, char *argv[]) {
 	char* filename = argv[1];
 
 	/*	Get the selected options and populate array accordingly 
-				position	option
-					0					-d
-					1 				-a
-					2 				-A
-					3 				-i
-					4 				-l
-					5					-1
-					6 				-m
-					7 				-F
-					8					-p
-					9 				-n
+					position	option
+					0		-d
+					1 		-a
+					2 		-A
+					3 		-i
+					4 		-l
+					5		-1
+					6 		-m
+					7 		-F
+					8		-p
+					9 		-n
 			Level of priority: -d, -a, -A
 			Conflicts: -m, -1, -l, -n (the last one inputted by the user will be considered)
 	*/
