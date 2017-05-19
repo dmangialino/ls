@@ -1,10 +1,4 @@
 /* 
-	Dina Mangialino
-	Professor Adriana Wise
-	Unix Tools Midtern Project: ls implementation
-	April 21, 2017
-
-	error_handlers.h
 	Header file for error handling functions, including implementation
 	Code from from Advanced Programming in the Unix Environment
 */
