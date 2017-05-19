@@ -1,9 +1,4 @@
 /* 
-	Dina Mangialino
-	Professor Adriana Wise
-	Unix Tools Midtern Project: ls implementation
-	April 21, 2017
-
 	functions.h
 	Header file for myls functions, including implementation
 */
